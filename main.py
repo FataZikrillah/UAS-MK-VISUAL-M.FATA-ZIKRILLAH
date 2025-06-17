@@ -335,7 +335,7 @@ class KRSApplication:
         title_frame.pack_propagate(False)  # Mempertahankan ukuran frame
 
         # Label judul aplikasi
-        title_label = tk.Label(title_frame, text="SISTEM KARTU RENCANA STUDI (KRS)", 
+        title_label = tk.Label(title_frame, text="SISTEM KARTU RENCANA STUDI (KRS)  - BY M.FATA ZIKRILLAH", 
                               font=('Arial', 16, 'bold'), 
                               fg='white', bg='#2c3e50')
         title_label.pack(expand=True)
